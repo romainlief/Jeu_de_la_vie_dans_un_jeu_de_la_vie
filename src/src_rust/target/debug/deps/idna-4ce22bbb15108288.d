@@ -1,0 +1,10 @@
+/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/libidna-4ce22bbb15108288.rmeta: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/deprecated.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/punycode.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/uts46.rs
+
+/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/libidna-4ce22bbb15108288.rlib: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/deprecated.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/punycode.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/uts46.rs
+
+/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/idna-4ce22bbb15108288.d: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/deprecated.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/punycode.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/uts46.rs
+
+/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/lib.rs:
+/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/deprecated.rs:
+/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/punycode.rs:
+/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-1.1.0/src/uts46.rs:

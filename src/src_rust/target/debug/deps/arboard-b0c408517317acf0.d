@@ -1,0 +1,10 @@
+/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/libarboard-b0c408517317acf0.rmeta: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/common.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/mod.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/osx.rs
+
+/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/libarboard-b0c408517317acf0.rlib: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/common.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/mod.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/osx.rs
+
+/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/arboard-b0c408517317acf0.d: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/common.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/mod.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/osx.rs
+
+/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/lib.rs:
+/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/common.rs:
+/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/mod.rs:
+/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/osx.rs:

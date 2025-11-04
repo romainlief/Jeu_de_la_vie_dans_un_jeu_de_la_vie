@@ -1,6 +1,5 @@
 import numpy as np
 
-
 class GameOfLifeSimulation:
     def __init__(self, size=50, alive_prob=0.2):
         self.N = int(size)

@@ -1,0 +1,10 @@
+[package]
+name = "src_rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.32.1"
+egui = "0.32.1"
+ndarray = "0.17.1"
+rand = "0.9.2"
