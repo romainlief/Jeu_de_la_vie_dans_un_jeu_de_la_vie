@@ -6,10 +6,5 @@ use gui::GOLApp;
 use eframe::NativeOptions;
 
 fn main() {
-    let native_options = NativeOptions::default();
-    eframe::run_native(
-        "Game of Life in Game of Life",
-        native_options,
-        Box::new(|_cc| Ok(Box::new(GOLApp::new(100, 20, 0.2, 200)))),
-    );
+    gui::launch_gui_application().unwrap();
 }

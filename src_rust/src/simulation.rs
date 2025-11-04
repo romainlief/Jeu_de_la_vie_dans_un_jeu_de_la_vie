@@ -124,7 +124,7 @@ impl GameOfLifeInGameOfLife {
                         let grid = sim_box.get_grid();
                         let mut sum = 0usize;
                         for v in grid.iter() {
-                            if *v == 1u8 { sum += 10; }
+                            if *v == 1u8 { sum += 5; }
                         }
                         let area = (self.small_N * self.small_N) as f64;
                         out.push((sum as f64) / area);

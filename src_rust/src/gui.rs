@@ -1,7 +1,46 @@
 use crate::simulation::GameOfLifeInGameOfLife;
 use eframe::{egui, App};
-use egui::{ColorImage, TextureHandle, TextureOptions};
+use egui::{ColorImage, TextureHandle, TextureOptions, TextureFilter};
 use std::time::{Duration, Instant};
+use display_info::DisplayInfo;
+
+pub fn launch_gui_application() -> eframe::Result<()> {
+        let display = DisplayInfo::all()
+        .unwrap()
+        .into_iter()
+        .find(|d| d.is_primary)
+        .unwrap_or(DisplayInfo {
+            id: 0,
+            name: String::new(),
+            friendly_name: String::new(),
+            width: 1200,
+            height: 800,
+            width_mm: 0,
+            height_mm: 0,
+            frequency: 60.0,
+            rotation: 0.0,
+            scale_factor: 1.0,
+            is_primary: true,
+            raw_handle: unsafe { std::mem::zeroed() },
+            x: 0,
+            y: 0,
+        });
+    let width = display.width as f32 * 0.8;
+    let height = display.height as f32 * 0.8;
+
+    let options = eframe::NativeOptions {
+        viewport: egui::ViewportBuilder::default()
+            .with_inner_size([width, height])
+            .with_min_inner_size([width, height])
+            .with_title("Game of Life in Game of Life"),
+        ..Default::default()
+    };
+    eframe::run_native(
+        "Game of Life in Game of Life",
+        options,
+        Box::new(|_cc| Ok(Box::new(GOLApp::new(40, 30, 0.2, 200)))),
+    )
+}
 
 pub struct GOLApp {
     sim: GameOfLifeInGameOfLife,
@@ -38,9 +77,11 @@ impl GOLApp {
         }
 
         let image = ColorImage::from_rgba_unmultiplied([big_n, big_n], &pixels);
-        // (re)load the texture into the context and store the handle.
-        // We always (re)load here to avoid needing mutable access to an existing handle.
-        let tex = ctx.load_texture("gol_texture", image, TextureOptions::default());
+        let mut options = TextureOptions::default();
+        options.minification = TextureFilter::Nearest;
+        options.magnification = TextureFilter::Nearest;
+
+        let tex = ctx.load_texture("gol_texture", image, options);
         self.texture = Some(tex);
     }
 }
