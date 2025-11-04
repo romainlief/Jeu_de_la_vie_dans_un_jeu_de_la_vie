@@ -1,9 +1,0 @@
-/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/libab_glyph_rasterizer-0f8cc3e9fbbebf1d.rmeta: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ab_glyph_rasterizer-0.1.10/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ab_glyph_rasterizer-0.1.10/src/geometry.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ab_glyph_rasterizer-0.1.10/src/raster.rs
-
-/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/libab_glyph_rasterizer-0f8cc3e9fbbebf1d.rlib: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ab_glyph_rasterizer-0.1.10/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ab_glyph_rasterizer-0.1.10/src/geometry.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ab_glyph_rasterizer-0.1.10/src/raster.rs
-
-/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/ab_glyph_rasterizer-0f8cc3e9fbbebf1d.d: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ab_glyph_rasterizer-0.1.10/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ab_glyph_rasterizer-0.1.10/src/geometry.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ab_glyph_rasterizer-0.1.10/src/raster.rs
-
-/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ab_glyph_rasterizer-0.1.10/src/lib.rs:
-/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ab_glyph_rasterizer-0.1.10/src/geometry.rs:
-/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ab_glyph_rasterizer-0.1.10/src/raster.rs:

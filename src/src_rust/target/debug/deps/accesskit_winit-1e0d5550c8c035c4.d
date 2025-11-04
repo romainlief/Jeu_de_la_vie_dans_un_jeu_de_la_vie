@@ -1,9 +1,0 @@
-/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/libaccesskit_winit-1e0d5550c8c035c4.rmeta: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.27.0/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.27.0/src/platform_impl/mod.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.27.0/src/platform_impl/macos.rs
-
-/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/libaccesskit_winit-1e0d5550c8c035c4.rlib: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.27.0/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.27.0/src/platform_impl/mod.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.27.0/src/platform_impl/macos.rs
-
-/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/accesskit_winit-1e0d5550c8c035c4.d: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.27.0/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.27.0/src/platform_impl/mod.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.27.0/src/platform_impl/macos.rs
-
-/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.27.0/src/lib.rs:
-/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.27.0/src/platform_impl/mod.rs:
-/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.27.0/src/platform_impl/macos.rs:

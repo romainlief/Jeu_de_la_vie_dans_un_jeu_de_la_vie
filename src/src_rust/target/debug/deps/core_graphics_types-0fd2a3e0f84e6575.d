@@ -1,9 +1,0 @@
-/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/libcore_graphics_types-0fd2a3e0f84e6575.rmeta: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/core-graphics-types-0.1.3/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/core-graphics-types-0.1.3/src/base.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/core-graphics-types-0.1.3/src/geometry.rs
-
-/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/libcore_graphics_types-0fd2a3e0f84e6575.rlib: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/core-graphics-types-0.1.3/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/core-graphics-types-0.1.3/src/base.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/core-graphics-types-0.1.3/src/geometry.rs
-
-/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/core_graphics_types-0fd2a3e0f84e6575.d: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/core-graphics-types-0.1.3/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/core-graphics-types-0.1.3/src/base.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/core-graphics-types-0.1.3/src/geometry.rs
-
-/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/core-graphics-types-0.1.3/src/lib.rs:
-/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/core-graphics-types-0.1.3/src/base.rs:
-/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/core-graphics-types-0.1.3/src/geometry.rs:

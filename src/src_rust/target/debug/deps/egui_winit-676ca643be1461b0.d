@@ -1,9 +1,0 @@
-/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/libegui_winit-676ca643be1461b0.rmeta: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.32.3/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.32.3/src/clipboard.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.32.3/src/window_settings.rs
-
-/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/libegui_winit-676ca643be1461b0.rlib: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.32.3/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.32.3/src/clipboard.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.32.3/src/window_settings.rs
-
-/Users/romainliefferinckx/PythonProjects/modélisation_jeu_de_de_la_vie_au_2/src/src_rust/target/debug/deps/egui_winit-676ca643be1461b0.d: /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.32.3/src/lib.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.32.3/src/clipboard.rs /Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.32.3/src/window_settings.rs
-
-/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.32.3/src/lib.rs:
-/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.32.3/src/clipboard.rs:
-/Users/romainliefferinckx/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui-winit-0.32.3/src/window_settings.rs:
